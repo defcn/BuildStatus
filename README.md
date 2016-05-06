@@ -5,14 +5,14 @@ Just Some Images That Have Build Status's
 These are just some images to show your project build status.
 
 # Usage
-[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/passing.png)](#features)<br \>
-[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/moderate.png)](#features)<br \>
-[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/failing.png)](#features)
+[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/passing.png)](https://github.com/defcn/BuildStatus/raw/master/passing)<br \>
+[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/moderate.png)](https://github.com/defcn/BuildStatus/raw/master/moderate.png)<br \>
+[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/failing.png)](https://github.com/defcn/BuildStatus/raw/master/failing.png)
 <br />
 This is how the images look. You may edit them in any way.
 ```
-[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/passing.png)](https://github.com/defcn/BuildStatus/raw/master/failing.png)
-[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/moderate.png)](https://github.com/defcn/BuildStatus/raw/master/failing.png)
+[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/passing.png)](https://github.com/defcn/BuildStatus/raw/master/passing.png)
+[![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/moderate.png)](https://github.com/defcn/BuildStatus/raw/master/moderate.png)
 [![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/failing.png)](https://github.com/defcn/BuildStatus/raw/master/failing.png)
 ```
 You can also download the images and replace them here is the format if you want do that **YOU MUST HAVE THEM IN A REPO ON GITHUB or in your REPO**
