@@ -25,3 +25,7 @@ Paste the syntax from my repo or down the files and upload them to your own repo
 
 # Notes
 The clickable action that happens to your image can be removed it is not required. I would just recommend having it link to your README.md as a direct link.
+**Example**
+```
+https://github.com/githubusername/reponame/blob/branch/README.md/
+```
