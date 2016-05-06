@@ -8,7 +8,8 @@ These are just some images to show your project build status.
 [![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/passing.png)](#features)
 [![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/moderate.png)](#features)
 [![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/failing.png)](#features)
-``` Above is a example of how the images look ```
+<br />
+This is how the images look. You may edit them in any way.
 ```
 [![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/passing.png)](#features)
 [![reponame dualmode](https://github.com/defcn/BuildStatus/raw/master/moderate.png)](#features)
