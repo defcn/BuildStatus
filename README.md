@@ -21,5 +21,6 @@ Here is the format
 [![reponame dualmode](https://github.com/githubusername/reponame/raw/branch/imgname.png)](#clickable[inside git repo])
 [![reponame dualmode](https://github.com/githubusername/reponame/raw/branch/imgname.png)](http://www.google.com/ [leads to anything you put it in as a web link])
 ```
-Paste the syntax from my repo or down the files and upload them to your own repo with the example above into your README.md and it should do good. Any bugs or assistance needed just post a issue report on GitHub.<br \>
+Paste the syntax from my repo or down the files and upload them to your own repo with the example above into your README.md and it should do good. Any bugs or assistance needed just post a issue report on GitHub.
+<br \>
 The clickable action that happens to your image can be removed it is not required. I would just recommend having it link to your README.md as a direct link.
